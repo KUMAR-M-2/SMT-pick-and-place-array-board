@@ -68,13 +68,17 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 5.	IoT and medical device production – Supports ultra-compact PCB designs for wearables, biomedical sensors, wireless nodes, and miniature embedded systems requiring micro-sized components and fine-pitch ICs.
 
 
-# Output
+# Output:
 
-## Array bare PCB board
+## Array bare PCB board:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7adc1f85-c4d1-4b1e-87c5-09860eb513f1" />
+
 
 
 ## Array bare PCB board with components
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/aac86802-da5c-4d96-b3c2-7636e4ee82c3" />
 
 
-# Result
+# Result:
+ Therefore the experiment to automatically pick and place the SMD electronic components onto a array bare PCB accurately using an SMT pick-and-place machine was executed successfully.
 
